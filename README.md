@@ -13,6 +13,8 @@ https://docs.unity3d.com/ScriptReference/Profiling.Memory.Experimental.MemoryPro
 - Open the Memory Snapshot editor window Tools -> Memory Snapshot
 - Update the output location to "{ProjectPath}/MemoryCaptures"
     - This is where the experimental memory profiler package expects the snapshots to live
+- Press "Take Snapshots"
+- Open the Window -> Analysis -> Memory Profile and you should see the snapshots to the left
 
 ## Adding the Package to a Project
 - Open your project manifest file (`MyProject/Packages/manifest.json`).
