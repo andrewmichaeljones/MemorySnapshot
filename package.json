@@ -1,0 +1,22 @@
+{
+  "name": "memorysnapshot",
+  "displayName": "Memory Snapshot",
+  "version": "0.0.1",
+  "unity": "2020.3",
+  "unityRelease": "24f1",
+  "description": "Tool for taking memory snapshots are regular intervals.",
+  "category": "Tool",
+  "type": "tool",
+  "license": "MIT",
+  "author": {
+    "name": "Andrew Jones",
+    "email": "ajon542@gmail.com"
+  },
+  "dependencies": {
+    "com.unity.editorcoroutines": "1.0.0"
+  },
+  "keywords": [
+    "Scripts",
+    "Tool"
+  ]
+}
