@@ -50,4 +50,4 @@ jobs:
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_branch: gh-pages
-          publish_dir: _site
+          publish_dir: Documentation/_site
